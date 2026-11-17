@@ -53,7 +53,7 @@ We use Reinforcement Learning from Verifiable Rewards (RLVR) to train MemAgent, 
 - **14B model:** Performance degradation <5.5% on 3.5M token tasks, achieving truly lossless extrapolation.
 - **7B model:** Only 11% performance decline in longest contexts, significantly outperforming existing long-context models
 
-![Performance Comparison](figs/main_result.png)
+![Performance Comparison](main_result.png)
 
 ## Quickstart
 
